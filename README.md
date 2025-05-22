@@ -2,4 +2,5 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning AI and Machine learning
 - 📫 How to reach me mirahmad056@gmail.com
+- 🔗 LinkedIn: http://www.linkedin.com/in/99ahmad
 - 😄 Pronouns: Ahmad
