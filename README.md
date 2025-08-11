@@ -2,6 +2,7 @@
 **Computer Science Undergraduate | Aspiring ML/AI Engineer | Skilled in Python • C++ • Java | Passionate About Building Smart, Scalable Solutions**
 
 - 📚 **I’m currently learning:** Artificial Intelligence(AI) and Machine Learning
+- 🛠️ **Working on Project:** Ai Image Enhancer Web Application
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** gs9977831@gmail.com
 - 😄 **Pronouns:** Ahmad
