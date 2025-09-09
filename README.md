@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Mir Ahmad Shah
+# Hi 👋, I'm Mir Ahmad Shah
 **Computer Science Undergraduate | Aspiring ML/AI Engineer | Skilled in Python • C++ • Java | Passionate About Building Smart, Scalable Solutions**
 
 - 📚 **I’m currently learning:** Artificial Intelligence(AI) and Machine Learning
