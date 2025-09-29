@@ -3,7 +3,7 @@
 
 - 📚 **I’m currently learning:** Artificial Intelligence(AI) and Machine Learning
 - 🛠️ **Working on Project:** Ai Image Enhancer Web Application
-- 🛠️ **Website:** https://99ahmad.netlify.app/
+- 🌐 **Website:** https://99ahmad.netlify.app/
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** gs9977831@gmail.com
 - 😄 **Pronouns:** Ahmad
