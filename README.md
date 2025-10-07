@@ -1,8 +1,16 @@
+
+<div>
+
 # Hi 👋, I'm Mir Ahmad Shah
-**Computer Science Undergraduate | Aspiring ML/AI Engineer | Skilled in Python • C++ • Java | Passionate About Building Smart, Scalable Solutions**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0000FF&center=false&vCenter=true&width=700&lines=Computer%20Science%20Undergraduate;AI%2FML%20Engineer;Full%20Stack%20Developer;Skilled%20in%20Python%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Java;UI%2FUX%20Designer;Building%20Smart%20%26%20Scalable%20Solutions)
+
+
+</div>
+
+
 
 - 📚 **I’m currently learning:** Artificial Intelligence(AI) and Machine Learning
-- 🛠️ **Working on Project:** Ai Image Enhancer Web Application
 - 🌐 **Website:** https://99ahmad.netlify.app/
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** gs9977831@gmail.com
