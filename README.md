@@ -14,7 +14,6 @@
 - 🌐 **Website:** https://99ahmad.netlify.app/
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** gs9977831@gmail.com
-- 😄 **Pronoun:** Ahmad
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/99ahmad) [![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=Google-chrome&logoColor=white)](https://99ahmad.netlify.app/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mir.ahmad.shah.336382) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mirahmad99) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mirahmad9942) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gs9977831@gmail.com) 
