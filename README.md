@@ -9,7 +9,7 @@
 </div>
 
 
-
+- 👩🏻‍💻 **I can (PLAN → CODE → BUILD → TEST → DEPLOY)**
 - 📚 **I’m currently learning:** Artificial Intelligence(AI) and Machine Learning
 - 🌐 **Website:** https://99ahmad.netlify.app/
 - 💬 **Ask me about:** Collaboration, Tech Support
