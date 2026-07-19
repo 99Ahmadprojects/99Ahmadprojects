@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b9f945f-2a96-401d-8a51-43911a504ef6" width="100%" alt="Project Demo">
+  <img src="github.png" alt="App Screenshot" width="1600">
 </p>
 
 - 👩🏻‍💻 **I can (PLAN → CODE → BUILD → TEST → DEPLOY)**
@@ -33,9 +33,3 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-<p align="center">
-  <img src="github.png" alt="App Screenshot" width="1600">
-</p>
