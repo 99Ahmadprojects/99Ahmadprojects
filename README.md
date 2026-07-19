@@ -4,9 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Mir Ahmad Shah</h1>
 
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2563EB&width=850&lines=Final-Year+BS+Computer+Science+Student;AI%2FML+Engineer;Full-Stack+Developer;Python+%7C+C%2B%2B+%7C+Java+Developer;UI%2FUX+Designer;Building+Smart+and+Scalable+Solutions" alt="Typing SVG"/>
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=900&lines=Final-Year+BS+Computer+Science+Student;AI%2FML+Engineer;Full-Stack+Developer;Python+%7C+C%2B%2B+%7C+Java+Developer;UI%2FUX+Designer;Building+Smart+and+Scalable+Solutions"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=99Ahmadprojects&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
