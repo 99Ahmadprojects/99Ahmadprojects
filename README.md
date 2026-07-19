@@ -28,12 +28,6 @@
 
 ---
 
-<p align="center">
-  <img src="github.png" alt="App Screenshot" width="1600">
-</p>
-
----
-
 # 🐍 Snake Game Repo View
 
 <div align="center">
@@ -41,3 +35,7 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="github.png" alt="App Screenshot" width="1600">
+</p>
