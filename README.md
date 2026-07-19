@@ -6,9 +6,7 @@
 
 <div>
 
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0000FF&center=false&vCenter=true&width=700&lines=BS%20Computer%20Science%20Final%20Year%20Student;AI%2FML%20Engineer;Full%20Stack%20Developer;Skilled%20in%20Python%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Java;UI%2FUX%20Designer;Building%20Smart%20%26%20Scalable%20Solutions)
-
 
 </div>
 
