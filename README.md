@@ -2,14 +2,6 @@
   <img src="https://github.com/user-attachments/assets/7b9f945f-2a96-401d-8a51-43911a504ef6" width="100%" alt="Project Demo">
 </p>
 
----
-
-<p align="center">
-  <img src="github.png" alt="App Screenshot" width="1600">
-</p>
-
----
-
 - 👩🏻‍💻 **I can (PLAN → CODE → BUILD → TEST → DEPLOY)**
 - 📚 **I’m currently learning:** Artificial Intelligence(AI) and Machine Learning
 - 🌐 **Website:** https://99ahmad.netlify.app/
@@ -33,6 +25,12 @@
 <br/>
 ![](https://streak-stats.demolab.com/?user=99Ahmadprojects&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=99Ahmadprojects&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<p align="center">
+  <img src="github.png" alt="App Screenshot" width="1600">
+</p>
 
 ---
 
