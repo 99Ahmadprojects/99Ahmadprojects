@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/7b9f945f-2a96-401d-8a51-43911a504ef6" width="100%" alt="Project Demo">
+</p>
+
+---
+
+<p align="center">
   <img src="github.png" alt="App Screenshot" width="1600">
 </p>
 
