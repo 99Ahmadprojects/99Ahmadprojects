@@ -2,13 +2,25 @@
   <img src="github.png" alt="App Screenshot" width="1600">
 </p>
 
+---
+
+<div>
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0000FF&center=false&vCenter=true&width=700&lines=BS%20Computer%20Science%20Final%20Year%20Student;AI%2FML%20Engineer;Full%20Stack%20Developer;Skilled%20in%20Python%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Java;UI%2FUX%20Designer;Building%20Smart%20%26%20Scalable%20Solutions)
+
+
+</div>
+
+
 - 👩🏻‍💻 **I can (PLAN → CODE → BUILD → TEST → DEPLOY)**
-- 📚 **I’m currently learning:** Artificial Intelligence(AI) and Machine Learning
+- 📚 **I’m currently learning:** Agentic AI and Automation
 - 🌐 **Website:** https://99ahmad.netlify.app/
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mir.ahmad.dev@gmail.com
 
 ---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/99ahmad) [![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=Google-chrome&logoColor=white)](https://99ahmad.netlify.app/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mir.ahmad.shah.336382) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mirahmad99) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mirahmad9942) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mir.ahmad.dev@gmail.com) 
