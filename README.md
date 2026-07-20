@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="github.png" alt="GitHub Banner" width="1600">
+  <kbd>
+    <img src="github.png" alt="GitHub Banner" width="1600">
+  </kbd>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Mir Ahmad Shah</h1>
 
